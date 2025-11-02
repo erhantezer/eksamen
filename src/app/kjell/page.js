@@ -37,7 +37,7 @@ export default function ElisabethFullFit() {
             fontSize: "0.95rem",
           }}
         >
-          🖨️ Yazdır / PDF
+          🖨️ Skriv ut / PDF
         </button>
       </div>
 

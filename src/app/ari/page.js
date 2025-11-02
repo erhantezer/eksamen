@@ -36,7 +36,7 @@ export default function IsflakTennevollFull() {
             fontSize: "0.95rem",
           }}
         >
-          🖨️ Yazdır / PDF
+          🖨️ Skriv ut / PDF
         </button>
       </div>
 

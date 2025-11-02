@@ -35,7 +35,7 @@ export default function EnOgToOgTreFull() {
             fontSize: "0.95rem",
           }}
         >
-          🖨️ Yazdır / PDF
+          🖨️ Skriv ut / PDF
         </button>
       </div>
       <h1 style={{ textAlign: "center", fontSize: 28, marginBottom: 10 }}>
