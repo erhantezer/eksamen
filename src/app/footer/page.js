@@ -1,3 +1,4 @@
+"use client";
 export default function Footer() {
   // Sabit yükseklik + iOS safe-area desteği
   const height = "32px";
