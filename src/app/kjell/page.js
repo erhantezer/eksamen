@@ -125,130 +125,230 @@ Jeg leste det to ganger. Så forstod jeg. Jeg la arket fra meg nøyaktig der det
       </section>
 
       {/* ——— ANALİZ ——— */}
-      <h2
-        style={{
-          fontSize: "clamp(18px, 2.6vw, 24px)",
-          marginTop: 8,
-          marginBottom: 8,
-          textAlign: "center",
-        }}
-      >
-        Novelleanalyse – Kjell Askildsen: «Elisabeth»
-      </h2>
+      <>
+  <p
+    style={{
+      fontWeight: "bold",
+      fontSize: "1.05em",
+      marginBottom: 10,
+    }}
+  >
+    Novelleanalyse – Kjell Askildsen: «Elisabeth»
+  </p>
 
-      <section
-        style={{
-          fontSize: "clamp(14px, 2.1vw, 18px)",
-          textAlign: "justify",
-          hyphens: "auto",
-          overflowWrap: "anywhere",
-          wordBreak: "normal",
-        }}
-      >
-        <h3 style={{ marginTop: 12 }}>📘 Kort informasjon om novellen</h3>
-        <ol>
-          <li>
-            <strong>Forfatter og utgivelse:</strong> Novellen «Elisabeth» er
-            skrevet av Kjell Askildsen og utgitt i samlingen{" "}
-            <em>Hundene i Tessaloniki</em> (1996, Forlaget Oktober).
-          </li>
-          <li>
-            <strong>Om forfatteren:</strong> Kjell Askildsen (1929–2021) –
-            minimalistisk stil, korte dialoger, taus spenning og undertrykte
-            følelser; tema: familie, seksualitet, ensomhet, skyld.
-          </li>
-          <li>
-            <strong>Tid/kontekst:</strong> 1990-tallet; psykologisk isolasjon,
-            små øyeblikk som avdekker store konflikter.
-          </li>
-        </ol>
+  <h3
+    style={{
+      color: "#1d4ed8",
+      marginTop: 12,
+      marginBottom: 4,
+    }}
+  >
+    📘 Kort informasjon om novellen
+  </h3>
+  <p>
+    <strong>Forfatter og utgivelse:</strong> Novellen «Elisabeth» er skrevet av
+    Kjell Askildsen og utgitt i samlingen <em>Hundene i Tessaloniki</em> (1996,
+    Forlaget Oktober).
+  </p>
+  <p>
+    <strong>Om forfatteren:</strong> Kjell Askildsen (1929–2021) – minimalistisk
+    stil, korte dialoger, taus spenning og undertrykte følelser; tema: familie,
+    seksualitet, ensomhet, skyld. Eksempel: Novellens nesten hele spenning
+    ligger i hva som ikke blir sagt: Frank sier aldri direkte at han begjærer
+    Elisabeth, men hele tiden kommer det fram gjennom blikkene hans og tankene
+    hans.
+  </p>
+  <p>
+    <strong>Tid/kontekst:</strong> 1990-tallet; psykologisk isolasjon, små
+    øyeblikk som avdekker store konflikter. Eksempel: Vanlige hverdagslige
+    situasjoner (frokost, hage, veranda, kaffe) blir fylt med skjult konflikt.
+  </p>
 
-        <h3 style={{ marginTop: 16 }}>💭 Tema og motiv</h3>
-        <ol>
-          <li>
-            <strong>Motiv:</strong> Frank besøker bror Daniel og svigerinne
-            Elisabeth; begjær, mistanke og taus konflikt bygger seg opp.
-          </li>
-          <li>
-            <strong>Tema:</strong> Seksuell spenning og begjær; skyld og skam;
-            fremmedgjøring; makt/kontroll; taushet og kommunikasjonssvikt.
-          </li>
-          <li>
-            <strong>Uttrykk:</strong> Det usagte (blikk/pauser/antydning) bærer
-            handlingen – ubehagelig og kompleks.
-          </li>
-          <p>
-            <strong>Budskap:</strong> Undertrykt begjær og uærlighet skaper
-            avstand og ødeleggelse; mennesker lever side om side uten å
-            forstå hverandre.
-          </p>
-        </ol>
+  <h3
+    style={{
+      color: "#16a34a",
+      marginTop: 16,
+      marginBottom: 4,
+    }}
+  >
+    💭 Tema og motiv
+  </h3>
+  <p>
+    <strong>Motiv:</strong> Frank besøker bror Daniel og svigerinne Elisabeth;
+    begjær, mistanke og taus konflikt bygger seg opp. Eksempel: Frank sitter i
+    hagen og fantaserer om Elisabeth mens han leser scenen mellom Esch og mor
+    Hentjen; samtidig lurer han på hva Daniel gjør hos naboen.
+  </p>
+  <p>
+    <strong>Tema:</strong>
+  </p>
+  <ul style={{ paddingLeft: "1.2rem", marginTop: 0 }}>
+    <li>
+      <strong>Seksuell spenning og begjær:</strong> Frank blir opphisset av
+      boken og kobler det til Elisabeth når hun dukker opp i vinduet.
+    </li>
+    <li>
+      <strong>Skyld og skam:</strong> Frank føler skam etter hvert som
+      fantasiene om Elisabeth blir sterkere, men klarer ikke stoppe dem.
+    </li>
+    <li>
+      <strong>Fremmedgjøring:</strong> Forholdet mellom Frank og moren er
+      kjølig — «Slutt med det der, mor.»
+    </li>
+    <li>
+      <strong>Makt/kontroll:</strong> Daniel virker trygg og dominerende; han
+      observerer Frank, kommenterer, tester ham.
+    </li>
+    <li>
+      <strong>Taushet og kommunikasjonssvikt:</strong> Under middagen sitter de
+      helt tause selv om Frank prøver å snakke.
+    </li>
+  </ul>
+  <p>
+    <strong>Uttrykk:</strong> Det usagte (blikk/pauser/antydning) bærer
+    handlingen – ubehagelig og kompleks. Eksempel: Daniel ser ut av vinduet og
+    sier «Det er kanskje best du reiser igjen» — uten forklaring.
+  </p>
+  <p>
+    <strong>Budskap:</strong> Undertrykt begjær og uærlighet skaper avstand og
+    ødeleggelse; mennesker lever side om side uten å forstå hverandre.
+    Eksempel: Hele besøket ender uten et eneste klart oppgjør; bare lapper
+    igjen.
+  </p>
 
-        <h3 style={{ marginTop: 16 }}>🧱 Komposisjon</h3>
-        <ol>
-          <li>
-            <strong>Struktur:</strong> Kronologisk, realistisk; små tilbakeblikk
-            (moren). Spenning bygges av det usagte.
-          </li>
-          <li>
-            <strong>Åpning:</strong> Hverdagslig ro → urovekkende undertone.
-          </li>
-          <li>
-            <strong>Høydepunkt/vendepunkt:</strong> Togscenen og “hendene
-            skylles” → antydet utroskap.
-          </li>
-          <li>
-            <strong>Slutt:</strong> Åpen, kald, resignert – lappene.
-          </li>
-          <li>
-            <strong>Funksjon:</strong> Gradvist trykk uten store hendelser;
-            leseren må lese mellom linjene.
-          </li>
-        </ol>
+  <h3
+    style={{
+      color: "#7c3aed",
+      marginTop: 16,
+      marginBottom: 4,
+    }}
+  >
+    🧱 Komposisjon
+  </h3>
+  <ul style={{ paddingLeft: "1.2rem", marginTop: 0 }}>
+    <li>
+      <strong>Struktur:</strong> Kronologisk, realistisk; små tilbakeblikk
+      (moren). Eksempel: Frank tenker tilbake på barndommen når Daniel nevner
+      sukkerbrød-skiven.
+    </li>
+    <li>
+      <strong>Spenning bygges av det usagte:</strong> Eksempel: Togscenen —
+      Frank ser Daniel komme ut av toget, men later som han ikke så ham.
+    </li>
+    <li>
+      <strong>Åpning:</strong> Hverdagslig ro → urovekkende undertone.
+      Eksempel: En stille søndag morgen blir plutselig ladet når Elisabeth
+      viser seg i vinduet.
+    </li>
+    <li>
+      <strong>Høydepunkt/vendepunkt:</strong> Togscenen og «hendene skylles» →
+      antydet utroskap. Eksempel: Daniel kommer fra naboens hus med «opprømt»
+      uttrykk og går rett for å vaske hendene.
+    </li>
+    <li>
+      <strong>Slutt:</strong> Åpen, kald, resignert – lappene. Eksempel: Frank
+      skriver sin egen lapp som et stumt svar på Daniel sin.
+    </li>
+    <li>
+      <strong>Funksjon:</strong> Gradvist trykk uten store hendelser; leseren
+      må lese mellom linjene. Eksempel: Ingen direkte konfrontasjon, men alt
+      antydes – både begjær og svik.
+    </li>
+  </ul>
 
-        <h3 style={{ marginTop: 16 }}>✍️ Fortellemåte og virkemidler</h3>
-        <ol>
-          <li>
-            <strong>Forteller:</strong> Førsteperson, subjektiv og upålitelig –
-            alt via Franks blikk.
-          </li>
-          <li>
-            <strong>Virkemidler:</strong> Symboler (hage/epletre, bok, uvær,
-            lapp), kontraster (indre lidenskap vs. ytre ro), underdrivelse,
-            stillhet.
-          </li>
-          <li>
-            <strong>Stil:</strong> Nøktern, presis prosa; korte setninger; mørk,
-            trykkende tone.
-          </li>
-        </ol>
+  <h3
+    style={{
+      color: "#db2777",
+      marginTop: 16,
+      marginBottom: 4,
+    }}
+  >
+    ✍️ Fortellemåte og virkemidler
+  </h3>
+  <p>
+    <strong>Forteller:</strong> Førsteperson, subjektiv og upålitelig – alt via
+    Franks blikk. Eksempel: Frank tolker Elisabeths blikk-avverging som
+    sjenanse og ikke som ubehag, selv om det kan være motsatt.
+  </p>
+  <p>
+    <strong>Virkemidler:</strong>
+  </p>
+  <ul style={{ paddingLeft: "1.2rem", marginTop: 0 }}>
+    <li>
+      <strong>Symboler:</strong> Hage/epletre → fristelse (Frank tenker på
+      Elisabeth mens han sitter i skyggen av epletreet). Bok → parallell til
+      hans egne fantasier. Uvær → følelsesmessig kaos (tordenværet bryter ut når
+      den skjulte spenningen er sterkest). Lapp → taus kommunikasjon.
+    </li>
+    <li>
+      <strong>Kontraster:</strong> Indre lidenskap vs. ytre ro. Eksempel: Frank
+      sitter rolig med kaffe mens tankene hans er seksuelt urolige og kaotiske.
+    </li>
+    <li>
+      <strong>Underdrivelse og stillhet:</strong> Eksempel: Daniel sier bare
+      «Hun er ikke helt seg selv for tiden» — men alt tyder på et større
+      problem.
+    </li>
+  </ul>
+  <p>
+    <strong>Stil:</strong> Nøktern, presis prosa; korte setninger; mørk,
+    trykkende tone. Eksempel: «Jeg svarte ikke.» gjentas mange ganger.
+  </p>
 
-        <h3 style={{ marginTop: 16 }}>👥 Personer og miljø</h3>
-        <ol>
-          <li>
-            <strong>Frank:</strong> Distansert, begjærer, men handler ikke;
-            forakter, men er like svak.
-          </li>
-          <li>
-            <strong>Daniel:</strong> Karismatisk, skjuler; maskulinitet vs.
-            hemmeligheter.
-          </li>
-          <li>
-            <strong>Elisabeth:</strong> Tyst, tvetydig; både offer og fristelse.
-          </li>
-          <li>
-            <strong>Miljø:</strong> Norsk småbyhjem; rom/natur = symbolsk
-            (hage=fristelse, kjøkken=rutine, jernbane=flukt).
-          </li>
-        </ol>
+  <h3
+    style={{
+      color: "#0f766e",
+      marginTop: 16,
+      marginBottom: 4,
+    }}
+  >
+    👥 Personer og miljø
+  </h3>
+  <ul style={{ paddingLeft: "1.2rem", marginTop: 0 }}>
+    <li>
+      <strong>Frank:</strong> Distansert, begjærer, men handler ikke; forakter,
+      men er like svak. Eksempel: Han vil «løfte» Elisabeth og tenker på hennes
+      kropp, men gjør aldri noe direkte.
+    </li>
+    <li>
+      <strong>Daniel:</strong> Karismatisk, skjuler; maskulinitet vs.
+      hemmeligheter. Eksempel: Åpne skjorte, hårete bryst, dominerende
+      holdning, men mystisk fravær (hos naboen).
+    </li>
+    <li>
+      <strong>Elisabeth:</strong> Tyst, tvetydig; både offer og fristelse.
+      Eksempel: Hun unngår blikkontakt, virker ukomfortabel, men smiler sjenert
+      når hun kommer med kaffe.
+    </li>
+    <li>
+      <strong>Miljø:</strong> Norsk småbyhjem; rom/natur = symbolsk (hage =
+      fristelse, kjøkken = rutine, plikt, jernbane = flukt). Eksempel: Frank
+      går flere ganger til jernbanerestauranten for å flykte fra uroen.
+    </li>
+  </ul>
 
-        <h3 style={{ marginTop: 16 }}>💡 Tolkning og refleksjon</h3>
-        <p>
-          Askildsen skriver om det som ikke blir sagt: relasjonell isolasjon,
-          selvbedrag og moralens tomrom. Hvem bedrar hvem forblir uklart; vi
-          etterlates i samme uvisshet som karakterene.
-        </p>
-      </section>
+  <h3
+    style={{
+      color: "#ea580c",
+      marginTop: 16,
+      marginBottom: 4,
+    }}
+  >
+    💡 Tolkning og refleksjon
+  </h3>
+  <p>
+    Askildsen skriver om det som ikke blir sagt: relasjonell isolasjon,
+    selvbedrag og moralens tomrom. Eksempel: Ingen sier høyt hva som skjer
+    mellom Daniel og naboen eller hva Frank føler for Elisabeth.
+  </p>
+  <p>
+    Hvem bedrar hvem forblir uklart; vi etterlates i samme uvisshet som
+    karakterene. Eksempel: Elisabeth gråter på kjøkkenet — men hvorfor, får vi
+    aldri vite.
+  </p>
+</>
+
+      
 
       {/* Global ve print stilleri */}
       <style jsx global>{`
