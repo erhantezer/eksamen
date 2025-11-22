@@ -505,7 +505,7 @@ export default function EnOgToOgTreQuizNO() {
                         : isWrong
                         ? "#fde8e8"
                         : selected
-                        ? "##996"
+                        ? "#996"
                         : "white",
                       cursor: showResult ? "default" : "pointer",
                       transition: "background 0.15s ease",
