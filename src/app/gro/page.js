@@ -101,139 +101,243 @@ Utenfor henger syrinene over gjerdet. Du går forbi en hegg som blomstrer. Og ha
       </section>
 
       {/* --- ANALİZ: TAMAMI --- */}
-      <h2 style={{ fontSize: 22, marginTop: 30 }}>
-        Novelleanalyse – Gro Dahle: «En og To og Tre»
-      </h2>
+      <>
+  <p
+    style={{
+      fontWeight: "bold",
+      fontSize: "1.05em",
+      marginBottom: 10,
+    }}
+  >
+    Novelleanalyse – Gro Dahle: «En og To og Tre»
+  </p>
 
-      <h3 style={{ marginTop: 15 }}>📘 Kort informasjon om novellen</h3>
-      <ol>
-        <li style={{ marginBottom: 8 }}>
-          <strong>Forfatter og utgivelse:</strong> Novellen «En og To og Tre» er
-          skrevet av Gro Dahle og utgitt i novellesamlingen{" "}
-          <em>Hvem som helst, hvor som helst</em> (Cappelen Damm, 2009).
-        </li>
-        <li style={{ marginBottom: 8 }}>
-          <strong>Om forfatteren:</strong> Gro Dahle (f. 1962) er en norsk
-          forfatter kjent for sitt poetiske og psykologiske språk. Hun skriver
-          ofte om utenforskap, skam, makt, kjønn og menneskets behov for å bli
-          sett; lyrisk språk + realistiske situasjoner, ofte med mørk undertone.
-        </li>
-        <li>
-          <strong>Tiden teksten ble skrevet i:</strong> Moderne samfunn preget av
-          sosiale spill og individualisme; “å bli sett og elsket” er høyaktuelt.
-        </li>
-      </ol>
+  <h3
+    style={{
+      color: "#1d4ed8",
+      marginTop: 12,
+      marginBottom: 4,
+    }}
+  >
+    📘 Kort informasjon om novellen
+  </h3>
+  <p>
+    <strong>Forfatter og utgivelse:</strong> Novellen «En og To og Tre» er
+    skrevet av Gro Dahle og utgitt i novellesamlingen{" "}
+    <em>Hvem som helst, hvor som helst</em> (Cappelen Damm, 2009).
+  </p>
+  <p>
+    <strong>Om forfatteren:</strong> Gro Dahle (f. 1962) er en norsk forfatter
+    kjent for sitt poetiske og psykologiske språk. Hun skriver ofte om
+    utenforskap, skam, makt, kjønn og menneskets behov for å bli sett; lyrisk
+    språk + realistiske situasjoner, ofte med mørk undertone. Eksempel: I denne
+    teksten er situasjonen helt vanlig (et selskap), men språket er billedrikt:
+    «Rommet dreier seg gradvis inn i posisjon», «du er et våpen».
+  </p>
+  <p>
+    <strong>Tiden teksten ble skrevet i:</strong> Moderne samfunn preget av
+    sosiale spill og individualisme; «å bli sett og elsket» er høyaktuelt.
+    Eksempel: Hele fortellingen handler om å fange noens blikk, «å bli sett»,
+    ikke om kjærlighet som relasjon, men som bekreftelse.
+  </p>
 
-      <h3 style={{ marginTop: 25 }}>💭 Tema og motiv</h3>
-      <ol>
-        <li style={{ marginBottom: 10 }}>
-          <strong>Motiv:</strong> En kvinne i et sosialt selskap blir besatt av
-          en mann; prøver få oppmerksomheten hans, men han er opptatt av en
-          annen – hun i rød kjole.
-        </li>
-        <li style={{ marginBottom: 10 }}>
-          <strong>Tema:</strong>
-          <ul style={{ marginTop: 6 }}>
-            <li>Utenforskap og usynlighet</li>
-            <li>Begjær og sjalusi</li>
-            <li>Behovet for bekreftelse</li>
-            <li>Sosial makt og avvisning</li>
-          </ul>
-        </li>
-        <li>
-          <strong>Hvordan uttrykkes det?</strong> Hele teksten er et indre
-          monologisk nærvær i presens; ytre handling minimal, emosjonell
-          intensitet maksimal. Språket lar oss kjenne angst, håp og nederlag.
-        </li>
-      </ol>
-      <p style={{ marginTop: 8 }}>
-        <strong>Budskap:</strong> Behovet for å bli sett kan gjøre oss blinde og
-        ydmyke. Dahle kritiserer indirekte et oppmerksomhetsdrevet samfunn.
-      </p>
+  <h3
+    style={{
+      color: "#16a34a",
+      marginTop: 16,
+      marginBottom: 4,
+    }}
+  >
+    💭 Tema og motiv
+  </h3>
+  <p>
+    <strong>Motiv:</strong> En kvinne i et sosialt selskap blir besatt av en
+    mann; hun forsøker å få oppmerksomheten hans, men han er opptatt av en annen
+    – hun i rød kjole. Eksempel: «Det er han. De andre er bare kulisser,
+    scenografi.» – alt handler om ham, resten viskes ut.
+  </p>
 
-      <h3 style={{ marginTop: 25 }}>🧱 Komposisjon</h3>
-      <ol>
-        <li>
-          <strong>Struktur:</strong> Presens, uten klassisk kronologi; ett
-          sammenhengende øyeblikk i bevisstheten. Bevegelse: håp → skam →
-          nederlag.
-        </li>
-        <li>
-          <strong>Åpning:</strong> In medias res – «Du ser ham med én gang.»
-        </li>
-        <li>
-          <strong>Vendepunkt:</strong> Sofa/glas-episoden og mislykkede
-          innspill (geitost/bær) – full kollaps sosialt.
-        </li>
-        <li>
-          <strong>Slutt:</strong> Åpen og symbolsk; grinden «svarer» – poetisk
-          speiling av indre tomhet.
-        </li>
-        <li>
-          <strong>Funksjon:</strong> Klaustrofobisk, men tragikomisk kurve.
-        </li>
-      </ol>
+  <p>
+    <strong>Tema:</strong>
+  </p>
+  <ul style={{ paddingLeft: "1.2rem", marginTop: 0 }}>
+    <li>
+      <strong>Utenforskap og usynlighet:</strong> Eksempel: Til slutt: «Du er
+      oversett, utstøtt. Rusk og skrap. Fortapt som en halv sitronskive som har
+      falt under bordet.»
+    </li>
+    <li>
+      <strong>Begjær og sjalusi:</strong> Hun studerer hver bevegelse: «Tunga i
+      munnviken. En mørk jakke har han. Hele tida vet du hvor han er.»
+      Sjalusien rettes mot «hun i den røde kjolen».
+    </li>
+    <li>
+      <strong>Behovet for bekreftelse:</strong> Hun tenker at hun må «redde»
+      ham fra den andre, men egentlig vil hun bli valgt selv: «Du må avverge
+      hans dumhet, redde ham fra å gjøre feil.»
+    </li>
+    <li>
+      <strong>Sosial makt og avvisning:</strong> Rød-kjole-kvinnen og mannen
+      har «all makt» i den sosiale situasjonen; til slutt sier teksten direkte:
+      «Enten har man all makt — eller så har man ingen.»
+    </li>
+  </ul>
 
-      <h3 style={{ marginTop: 25 }}>✍️ Fortellemåte og språklige virkemidler</h3>
-      <ol>
-        <li>
-          <strong>Forteller/synsvinkel:</strong> Andreperson («du») – leseren
-          tvinges inn i hovedpersonens rolle; både offer og vitne.
-        </li>
-        <li>
-          <strong>Virkemidler:</strong>
-          <ul style={{ marginTop: 6 }}>
-            <li>
-              Repetisjon: «Unnskyld – det gjør ingenting» → ydmykelse-syklus.
-            </li>
-            <li>
-              Symboler: rød kjole (rival/begjær/makt), grind (grense/realitet),
-              hår (livsvilje).
-            </li>
-            <li>
-              Kontrast: hun (nervøs/desp.) vs. rød-kjolen (selvsikker/trygg).
-            </li>
-            <li>Metaforer: «Du er et våpen.» – selvbedrag/indre kamp.</li>
-            <li>Stil: poetisk-rytmiske bilder + realistiske detaljer.</li>
-          </ul>
-        </li>
-      </ol>
+  <p>
+    <strong>Hvordan uttrykkes det?</strong> Hele teksten er et indre monologisk
+    nærvær i presens; ytre handling minimal, emosjonell intensitet maksimal.
+    Språket lar oss kjenne angst, håp og nederlag. Eksempel: Hele veien: «Du ser
+    ham… Du følger med. Du planlegger et framstøt.» – alt er nå, i øyeblikket,
+    og inne i hodet til «du».
+  </p>
+  <p>
+    <strong>Budskap:</strong> Behovet for å bli sett kan gjøre oss blinde og
+    ydmyke. Dahle kritiserer indirekte et oppmerksomhetsdrevet samfunn.
+    Eksempel: Hovedpersonen går så langt at hun «trenger seg inn» i andres
+    samtale, og ender med å være «rest» under bordet.
+  </p>
 
-      <h3 style={{ marginTop: 25 }}>👥 Personer og miljø</h3>
-      <ol>
-        <li>
-          <strong>Personer:</strong>
-          <ul style={{ marginTop: 6 }}>
-            <li>
-              <strong>«Du»:</strong> Usynliggjort, sårbar, bekreftelsessøkende;
-              fanges i eget selvbedrag.
-            </li>
-            <li>
-              <strong>Mannen:</strong> Oppmerksomhetens objekt; fjern/uutalt.
-            </li>
-            <li>
-              <strong>Kvinnen i rød kjole:</strong> Selvsikker rival, får
-              oppmerksomheten.
-            </li>
-          </ul>
-        </li>
-        <li>
-          <strong>Miljø:</strong> Sosialt rom/selskap – subjektiv og tett
-          skildring; varme, støy, nærhet → indre kaos.
-        </li>
-      </ol>
+  <h3
+    style={{
+      color: "#7c3aed",
+      marginTop: 16,
+      marginBottom: 4,
+    }}
+  >
+    🧱 Komposisjon
+  </h3>
+  <ul style={{ paddingLeft: "1.2rem", marginTop: 0 }}>
+    <li>
+      <strong>Struktur:</strong> Presens, uten klassisk kronologi; ett
+      sammenhengende øyeblikk i bevisstheten. Bevegelse: håp → skam →
+      nederlag. Eksempel: Fra «Du ser ham med én gang» til siste «Unnskyld. —
+      Det gjør ikke noe, svarer grinden» – ingen tidshopp, bare en psykisk
+      kurve.
+    </li>
+    <li>
+      <strong>Åpning:</strong> In medias res – «Du ser ham med én gang.»
+      Eksempel: Leseren kastes rett inn i forelskelses-/fikseringsøyeblikket
+      uten forklaring.
+    </li>
+    <li>
+      <strong>Vendepunkt:</strong> Sofa-/glass-episoden og de mislykkede
+      innspillene (geitost/bær) – full kollaps sosialt. Eksempel: Inne i
+      «glasskuppelen» prøver hun: «Visste dere at geitosten egentlig er lagd av
+      kumelk», men de svarer i kor og ser på hverandre, ikke på henne.
+      Banan-kommentaren er siste forsøk og fall.
+    </li>
+    <li>
+      <strong>Slutt:</strong> Åpen og symbolsk; grinden «svarer» – poetisk
+      speiling av indre tomhet. Eksempel: «Du hvisker: Unnskyld. Det gjør ikke
+      noe, svarer grinden når du lukker.» – menneskene svarer henne ikke
+      lenger, men tingene gjør det.
+    </li>
+    <li>
+      <strong>Funksjon:</strong> Klaustrofobisk, men tragikomisk kurve.
+      Eksempel: Komiske elementer (banan-faktum, ostedebatt) blandes med dypt
+      ubehag, slik at leseren både skammer seg og smiler litt.
+    </li>
+  </ul>
 
-      <h3 style={{ marginTop: 25 }}>💡 Tolkning og refleksjon</h3>
-      <p>
-        «En og To og Tre» er en skarp studie av lengsel og sosial
-        selvdestruksjon. Språket gjør oss medskyldige: vi kjenner både skammen
-        og håpet.
-      </p>
-      <p>
-        Siste bilde – «så lenge håret mitt vokser, er det håp» – gir kısık da
-        olsa bir yaşam kıvılcımı: total avvisimden sonra bile hayat sürer ve
-        insan yeniden denemeye çalışır.
-      </p>
+  <h3
+    style={{
+      color: "#db2777",
+      marginTop: 16,
+      marginBottom: 4,
+    }}
+  >
+    ✍️ Fortellemåte og språklige virkemidler
+  </h3>
+  <p>
+    <strong>Forteller/synsvinkel:</strong> Andreperson («du») – leseren tvinges
+    inn i hovedpersonens rolle; både offer og vitne. Eksempel: «Du er et
+    våpen», «Du setter øynene dine inn i ham som to gafler.» – leseren blir
+    dratt inn i denne skammen.
+  </p>
+  <p>
+    <strong>Virkemidler:</strong>
+  </p>
+  <ul style={{ paddingLeft: "1.2rem", marginTop: 0 }}>
+    <li>
+      <strong>Repetisjon:</strong> «Unnskyld – det gjør ingenting» → ydmykelse-
+      syklus. Eksempel: Først når hun tråkker på foten til hun i rød kjole, og
+      til slutt igjen på vei ut – samme mønster, men nå er hun helt usynlig.
+    </li>
+    <li>
+      <strong>Symboler:</strong> Rød kjole: rival/begjær/makt (hun omtales ofte
+      bare som «hun i den røde kjolen»). Grind: grense/overgang mellom sosial
+      verden og ensomhet. Hår: livsvilje, håp. Eksempel: «Håret mitt vokser,
+      tenker du. Og så lenge håret mitt vokser, er det håp.»
+    </li>
+    <li>
+      <strong>Kontrast:</strong> Hun (nervøs/desperat) vs. rød-kjolen
+      (selvsikker/trygg). Eksempel: Hovedpersonen overtenker hvert blunk, hver
+      bevegelse; rød kjole-kvinnen bare ler naturlig, er avslappet, får kontakt
+      uten å anstrenge seg.
+    </li>
+    <li>
+      <strong>Metaforer:</strong> «Du er et våpen.» – selvbildet hennes som
+      farlig/sterk, men i realiteten er hun maktesløs. «En glasskuppel» – det
+      intime rommet mellom ham og henne som hun prøver å knuse.
+    </li>
+    <li>
+      <strong>Stil:</strong> Poetisk-rytmiske bilder + realistiske detaljer.
+      Eksempel: «Hagen sluker seg selv i mørket. En fuktig mørk munn.» – helt
+      poetisk, men satt i en veldig hverdagslig setting (hage, grind).
+    </li>
+  </ul>
+
+  <h3
+    style={{
+      color: "#0f766e",
+      marginTop: 16,
+      marginBottom: 4,
+    }}
+  >
+    👥 Personer og miljø
+  </h3>
+  <ul style={{ paddingLeft: "1.2rem", marginTop: 0 }}>
+    <li>
+      <strong>«Du»:</strong> Usynliggjort, sårbar, bekreftelsessøkende; fanges
+      i eget selvbedrag. Eksempel: Hun tenker hele tiden strategisk: hvordan
+      stå, hvordan blunke, hva si – alt for å bli sett.
+    </li>
+    <li>
+      <strong>Mannen:</strong> Oppmerksomhetens objekt; fjern, lite
+      individualisert. Eksempel: Vi vet mer om bevegelsene hans («Ei hand i
+      lomma. Foten som beveger seg i takt med samtalen.») enn om personligheten
+      hans – han er prosjektet hennes, ikke en person.
+    </li>
+    <li>
+      <strong>Kvinnen i rød kjole:</strong> Selvsikker rival, får
+      oppmerksomheten. Eksempel: «Når de smiler, bytter de lepper.» – veldig
+      sterk poetisk formulering av hvor tett de er.
+    </li>
+    <li>
+      <strong>Miljø:</strong> Sosialt rom/selskap – subjektiv og tett
+      skildring; varme, støy, nærhet → indre kaos. Eksempel: Maten (ost, salat,
+      frukt), glass, sofa, stemning – alt beskrives, men alltid filtrert gjennom
+      «du» sin panikk.
+    </li>
+  </ul>
+
+  <h3
+    style={{
+      color: "#ea580c",
+      marginTop: 16,
+      marginBottom: 4,
+    }}
+  >
+    💡 Tolkning og refleksjon
+  </h3>
+  <p>
+    «En og To og Tre» er en skarp studie av lengsel og sosial selvdestruksjon.
+    Språket gjør oss medskyldige: vi kjenner både skammen og håpet. Eksempel:
+    Når hun roper om bananer som bær, er det både komisk og vondt. Leseren
+    skammer seg nesten på hennes vegne.
+  </p>
+</>
+
     </div>
   );
 }
