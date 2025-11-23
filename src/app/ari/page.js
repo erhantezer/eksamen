@@ -71,149 +71,242 @@ export default function IsflakTennevollFull() {
       </section>
 
       {/* --- ANALİZ: TAMAMINI EKLENMİŞ HALİ --- */}
-      <h2 style={{ fontSize: 22, marginTop: 30 }}>
-        Novelleanalyse – Ari Behn: «Isflak»
-      </h2>
+      <>
+  <p
+    style={{
+      fontWeight: "bold",
+      fontSize: "1.05em",
+      marginBottom: 10,
+    }}
+  >
+    Novelleanalyse – Ari Behn: «Isflak»
+  </p>
 
-      <h3 style={{ marginTop: 15 }}>📘 Kort informasjon om novellen</h3>
-      <ol>
-        <li style={{ marginBottom: 8 }}>
-          <strong>Forfatter og utgivelse:</strong> Novellen «Isflak» er skrevet
-          av Ari Behn og utgitt i novellesamlingen <em>Talent for lykke</em>{" "}
-          (2004, Kolon Forlag).
-        </li>
-        <li style={{ marginBottom: 8 }}>
-          <strong>Om forfatteren:</strong> Ari Behn (1972–2019) var en norsk
-          forfatter og kunstner kjent for sin særegne stil – ofte preget av
-          eksistensielle temaer, mørk humor og melankolsk refleksjon over liv,
-          tap og menneskelig svakhet.
-        </li>
-        <li>
-          <strong>Tiden teksten ble skrevet:</strong> Tidlig 2000-tall, en periode
-          da norsk litteratur ofte undersøkte maskulinitet, ensomhet og indre
-          konflikt. Korte, intense historier belyser større menneskelige spørsmål.
-        </li>
-      </ol>
+  <h3
+    style={{
+      color: "#1d4ed8",
+      marginTop: 12,
+      marginBottom: 4,
+    }}
+  >
+    📘 Kort informasjon om novellen
+  </h3>
+  <p>
+    <strong>Forfatter og utgivelse:</strong> Novellen «Isflak» er skrevet av Ari
+    Behn og utgitt i <em>Talent for lykke</em> (2004, Kolon Forlag).
+  </p>
+  <p>
+    <strong>Om forfatteren:</strong> Ari Behn (1972–2019) var en norsk forfatter
+    og kunstner kjent for sin særegne stil – eksistensielle temaer, mørk humor
+    og melankolsk refleksjon. Eksempel: Også i denne novellen er tonen mørk, men
+    med glimt av ironi, f.eks. når fortelleren sier: «Han ble tatt hånd om av
+    skolepsykologen og sendt på spesialskole.» – sagt uten sympati, men tørt og
+    distansert.
+  </p>
+  <p>
+    <strong>Tiden teksten ble skrevet:</strong> Tidlig 2000-tall – fokus på
+    maskulinitet, identitet, nederlag. Eksempel: Fortelleren sammenligner seg
+    med Ludvig, som «driver det stort» i Argentina, mens han selv sitter
+    arbeidsløs og skilt.
+  </p>
 
-      <h3 style={{ marginTop: 25 }}>💭 Tema og motiv</h3>
-      <ol>
-        <li style={{ marginBottom: 10 }}>
-          <strong>Motiv:</strong> Barndomsminner fra Tennevoll (reven, ørnen,
-          isflaket) som speiler den voksne fortellerens liv: tap, feighet og anger.
-        </li>
-        <li style={{ marginBottom: 10 }}>
-          <strong>Tema:</strong>
-          <ul style={{ marginTop: 6 }}>
-            <li>Barndommens erfaringer som former voksenlivet</li>
-            <li>Frykt, feighet og skyld</li>
-            <li>Livets valg – å tørre å «hoppe» eller bli stående</li>
-            <li>Ensomhet og nederlag</li>
-          </ul>
-        </li>
-        <li>
-          <strong>Hvordan kommer temaet til uttrykk?</strong> Kontrasten mellom
-          barndommens eventyr og den voksne mannens stillstand. Isflaket blir
-          et vedvarende symbol på valgene vi tar – eller ikke tar.
-        </li>
-      </ol>
-      <p style={{ marginTop: 8 }}>
-        <strong>Budskap:</strong> Fortellingen antyder at frykten ofte stopper
-        mennesket. Fortelleren angrer på at han ikke «hoppet av» – ikke tok
-        sjanser. Livets isflak driver videre; våger du ikke, blir du stående.
-      </p>
+  <h3
+    style={{
+      color: "#16a34a",
+      marginTop: 16,
+      marginBottom: 4,
+    }}
+  >
+    💭 Tema og motiv
+  </h3>
+  <p>
+    <strong>Motiv:</strong> Barndomsminner fra Tennevoll (reven, ørnen,
+    isflaket) som speiler den voksne fortellerens liv: tap, feighet og anger.
+    Eksempel: Hele fortiden fremstilles som dramatisk og vill, mens nåtiden er
+    tom: «Nå er jeg skilt og arbeidsløs.»
+  </p>
 
-      <h3 style={{ marginTop: 25 }}>🧱 Komposisjon</h3>
-      <ol>
-        <li>
-          <strong>Struktur:</strong> Nåtid + tilbakeblikk. Mesteparten i
-          barndommens Tennevoll, rammet inn av voksen refleksjon.
-        </li>
-        <li>
-          <strong>Åpning:</strong> «Det var et villmarksliv i Tennevoll.» –
-          sted, stemning og fare etableres umiddelbart.
-        </li>
-        <li>
-          <strong>Høydepunkt/Vendepunkt:</strong> Guttene på isflaket som driver
-          ut fjorden; fortelleren hopper, Ludvig blir – et symbolsk livsvalg.
-        </li>
-        <li>
-          <strong>Slutt:</strong> Åpen og ironisk: «Ikke faen om jeg hopper av
-          neste gang.» En blanding av selvbedrag og desperat håp.
-        </li>
-        <li>
-          <strong>Funksjon:</strong> Sirkelkomposisjon – fortid og nåtid bindes
-          sammen av isflak-symbolet.
-        </li>
-      </ol>
+  <p>
+    <strong>Tema:</strong>
+  </p>
+  <ul style={{ paddingLeft: "1.2rem", marginTop: 0 }}>
+    <li>
+      <strong>Barndommens erfaringer som former voksenlivet:</strong> 
+      Opplevelsen på isflaket blir et livsmetafor som følger ham: 
+      «Jeg har ikke forsøkt å seile på isflak igjen.»
+    </li>
+    <li>
+      <strong>Frykt, feighet og skyld:</strong> Fortelleren hopper i det
+      iskalde vannet, men han vet han gjorde det i panikk: «Skrekkslagen så jeg
+      oss drive utover.»
+    </li>
+    <li>
+      <strong>Livets valg – å tørre å «hoppe» eller bli stående:</strong> 
+      Eksempel: «Jeg er nødt til å hoppe, tenkte jeg.» – livet reduseres til et
+      hopp, et valg.
+    </li>
+    <li>
+      <strong>Ensomhet og nederlag:</strong> I voksen alder: «I stedet for å se
+      muligheter, gjør jeg det motsatte.»
+    </li>
+  </ul>
 
-      <h3 style={{ marginTop: 25 }}>✍️ Fortellemåte og språklige virkemidler</h3>
-      <ol>
-        <li>
-          <strong>Forteller/synsvinkel:</strong> Førsteperson – subjektiv,
-          sårbar, reflektert tone gir nærhet og troverdighet.
-        </li>
-        <li>
-          <strong>Virkemidler:</strong>
-          <ul style={{ marginTop: 6 }}>
-            <li>
-              <strong>Symboler:</strong> Isflak = muligheter/risiko/frihet;
-              reven = fare/uforutsigbarhet; villmark = ukontrollerbare krefter.
-            </li>
-            <li>
-              <strong>Kontraster:</strong> Barnets mot vs. den voksnes feighet;
-              naturens villhet vs. mannens stillstand.
-            </li>
-            <li>
-              <strong>Ironi:</strong> Sluttreplikkens tøffe tone avslører
-              egentlig avmakt.
-            </li>
-            <li>
-              <strong>Rytme/bilder:</strong> Muntlig, men poetisk; korte,
-              energiske setninger gir intensitet.
-            </li>
-          </ul>
-        </li>
-        <li>
-          <strong>Tone og stil:</strong> Nøktern, maskulin, tidvis mørk humor;
-          melankoli under overflaten.
-        </li>
-      </ol>
+  <p>
+    <strong>Hvordan temaet uttrykkes:</strong> Kontrasten mellom barndommens
+    ekstreme situasjoner og den voksnes passive stillstand. Eksempel: Ludvig
+    kastet seg ut i fare som barn – og han lykkes siden; fortelleren reddet seg
+    kun fysisk, men psykisk ble han stående.
+  </p>
+  <p>
+    <strong>Budskap:</strong> Fortellingen antyder at frykten ofte stopper
+    mennesket. De største mulighetene kommer når vi tør. Eksempel: Siste linje:
+    «Ikke faen om jeg hopper av neste gang.» – en blanding av trass og
+    selvbedrag.
+  </p>
 
-      <h3 style={{ marginTop: 25 }}>👥 Personer og miljø</h3>
-      <ol>
-        <li>
-          <strong>Personer:</strong>
-          <ul style={{ marginTop: 6 }}>
-            <li>
-              <strong>Jeg-fortelleren:</strong> Som barn redd; som voksen
-              resignert og skyldtung.
-            </li>
-            <li>
-              <strong>Ludvig:</strong> Modig/impulsiv barndomsvenn – senere
-              «lykkes» han, kontrastfigur.
-            </li>
-            <li>
-              <strong>Mari:</strong> Søster – sårbarhet/uskyld.
-            </li>
-          </ul>
-        </li>
-        <li>
-          <strong>Miljø:</strong> Tennevoll – nordnorsk villmark, dyr og fare.
-          Naturen speiler menneskets indre uro.
-        </li>
-      </ol>
+  <h3
+    style={{
+      color: "#7c3aed",
+      marginTop: 16,
+      marginBottom: 4,
+    }}
+  >
+    🧱 Komposisjon
+  </h3>
+  <ul style={{ paddingLeft: "1.2rem", marginTop: 0 }}>
+    <li>
+      <strong>Struktur:</strong> Nåtid + tilbakeblikk. Det meste i barndommens
+      Tennevoll, innrammet av en voksen manns refleksjon. Eksempel: Teksten
+      åpner i nåtid med en negativ livssituasjon og slutter i samme nåtid med
+      et ironisk selvoppholdende løfte.
+    </li>
+    <li>
+      <strong>Åpning:</strong> «Det var et villmarksliv i Tennevoll.» – stedet,
+      farene og tonen etableres umiddelbart. Eksempel: Ørner, rev med skum rundt
+      kjeften – en intens, dramatisk naturkontekst.
+    </li>
+    <li>
+      <strong>Høydepunkt/vendepunkt:</strong> Scenen hvor guttene driver utover
+      fjorden på isflaket. Eksempel: «Flaket var stort nok til å bære oss, men
+      det sprakk opp i kanten.» – dramatikk og livsfare. Fortellerens hopp er
+      vendepunktet – både fysisk og symbolsk.
+    </li>
+    <li>
+      <strong>Slutt:</strong> Åpen og ironisk: «Ikke faen om jeg hopper av neste
+      gang.» Eksempel: Leser forstår at dette sannsynligvis aldri vil skje –
+      tonen avslører selvbedrag.
+    </li>
+    <li>
+      <strong>Funksjon:</strong> Sirkelkomposisjon – fortiden (isflaket) speiler
+      nåtiden (livets muligheter). Eksempel: Han sier selv: «Det var dette
+      Ludvig prøvde å lære meg…»
+    </li>
+  </ul>
 
-      <h3 style={{ marginTop: 25 }}>💡 Tolkning og refleksjon</h3>
-      <p>
-        «Isflak» kan leses som et eksistensielt selvoppgjør: Fortelleren reddet
-        seg fysisk som barn, men mistet motet. Voksentilværelsen blir en serie
-        «ikke-hopp» – tapte muligheter.
-      </p>
-      <p>
-        Siste linje rommer både selvbedrag og håp. Løftet om å «hoppe neste
-        gang» klinger hult – men nettopp i den hule klangen finnes et svakt
-        ønske om forandring.
-      </p>
+  <h3
+    style={{
+      color: "#db2777",
+      marginTop: 16,
+      marginBottom: 4,
+    }}
+  >
+    ✍️ Fortellemåte og språklige virkemidler
+  </h3>
+  <p>
+    <strong>Forteller/synsvinkel:</strong> Førsteperson – subjektiv, sårbar,
+    reflektert tone gir nærhet og troverdighet. Eksempel: Fortelleren innrømmer
+    sin egen frykt: «Jeg kunne ikke svømme.»
+  </p>
+  <p>
+    <strong>Virkemidler:</strong>
+  </p>
+  <ul style={{ paddingLeft: "1.2rem", marginTop: 0 }}>
+    <li>
+      <strong>Symboler:</strong> Isflak = muligheter/risiko/frihet; reven =
+      fare/uforutsigbarhet; villmark = livets kaos. Eksempel: «Det blir sagt at
+      isflak kan drive langt til havs…»
+    </li>
+    <li>
+      <strong>Kontraster:</strong> Barndommens mot og livsenergi settes opp mot
+      den voksnes feighet og stillstand. Eksempel: Som barn flykter han fra
+      reven og overlever isflaket; som voksen: «Nå er jeg skilt og arbeidsløs.»
+    </li>
+    <li>
+      <strong>Metaforer:</strong> Isflaket fungerer som en gjennomgående
+      livsmetafor – et bilde på valgene man tør (eller ikke tør) å ta. Eksempel:
+      «Isflak kan drive langt til havs…» → livets muligheter.
+    </li>
+    <li>
+      <strong>Gjentakelse (repetisjon):</strong> Gjentakende tanker om frykt og
+      muligheter viser fastlåstheten hans. Eksempel: «I stedet for å se
+      muligheter, gjør jeg det motsatte.»
+    </li>
+    <li>
+      <strong>Sammenligninger:</strong> Enkle, konkrete sammenligninger gir
+      teksten energi og muntlig rytme. Eksempel: «Beina hennes gikk som
+      trommestikker.»
+    </li>
+    <li>
+      <strong>Tone og stil:</strong> Nøktern, maskulin, med mørk humor og et
+      snev av bitter selvironi. Eksempel: «Han ble tatt hånd om av
+      skolepsykologen…» – sagt tørt og lakonisk.
+    </li>
+  </ul>
+
+  <h3
+    style={{
+      color: "#0f766e",
+      marginTop: 16,
+      marginBottom: 4,
+    }}
+  >
+    👥 Personer og miljø
+  </h3>
+  <ul style={{ paddingLeft: "1.2rem", marginTop: 0 }}>
+    <li>
+      <strong>Jeg-fortelleren:</strong> Resignert voksen, redd som barn, bærer
+      skam og anger. Eksempel: «I stedet for å se muligheter, gjør jeg det
+      motsatte.»
+    </li>
+    <li>
+      <strong>Ludvig:</strong> Modig, impulsiv, nesten vill. Kontrastfigur.
+      Eksempel: Tre år gammel slår han etter ørn med blankebitt.
+    </li>
+    <li>
+      <strong>Mari:</strong> Søster. Symbol på sårbarhet. Eksempel: Hun løper
+      med «armene som sto stivt ut til sidene».
+    </li>
+    <li>
+      <strong>Miljø:</strong> Tennevoll – nordnorsk villmark, rå natur, dyr,
+      fare. Eksempel: Ørnereder flere hundre meter over havet – dramatikk og
+      vill natur. Miljøet speiler menneskets indre uro: kaos, fare, ustabilitet.
+    </li>
+  </ul>
+
+  <h3
+    style={{
+      color: "#ea580c",
+      marginTop: 16,
+      marginBottom: 4,
+    }}
+  >
+    💡 Tolkning og refleksjon
+  </h3>
+  <p>
+    «Isflak» er en eksistensielt ladet tekst om frykt, muligheter og valg.
+    Fortelleren reddet livet som barn – men mistet motet for resten av livet.
+    Eksempel: «Jeg har ikke forsøkt å seile på isflak igjen.»
+  </p>
+  <p>
+    Hvert minne er en påminnelse om tapt mulighet og feighet. Ludvig blir et
+    symbol på livet han kunne hatt.
+  </p>
+  <p>
+    Siste setning er dobbel: Den høres tøff ut – men den avslører desperasjon og
+    tomhet.
+  </p>
+</>
+
 
       {/* Global print styles */}
       <style jsx global>{`
