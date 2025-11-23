@@ -179,6 +179,19 @@ export default function Home() {
                 </div>
               </Link>
             </li>
+            <li className="group sm:col-span-2">
+              <Link
+                href="/sammendrag"
+                className="block rounded-2xl bg-white/90 backdrop-blur shadow-sm ring-1 ring-slate-200 hover:shadow-lg hover:-translate-y-0.5 transition-all duration-200 focus:outline-none focus-visible:ring-2 focus-visible:ring-emerald-500"
+              >
+                <div className="p-6 sm:p-5">
+                  <div className="inline-flex items-center rounded-full xl:text-xl bg-emerald-50 px-2 py-0.5 text-[11px] sm:text-xs font-semibold text-emerald-900 ring-1 ring-emerald-100">
+                    Sammendrag
+                  </div>
+                  
+                </div>
+              </Link>
+            </li>
           </ul>
         </section>
       </div>
