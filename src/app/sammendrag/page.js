@@ -123,14 +123,8 @@ Slik viser novellen hvordan sosiale relasjoner kan brytes ned av indre usikkerhe
           Ari Behn – <em>«Isflak»</em>
         </h1>
 
-        <h3 className="block-heading block-heading--blue">📝 Tekst</h3>
-        <div className="story-box">
-          <p className="story-text">
-            {`(fra samlingen «Talent for lykke», Kolon forlag, 2004)
+        
 
-Det var et villmarksliv i Tennevoll. Ørnene fløy lavt, reven pilte gjennom bygda med bikkja til naboen i hælene. Faren min hadde vært med på å berge et lam ut av et ørnerede flere hundre meter over havet. Nyheten gikk Norge rundt. Det var likevel Ludvig folk snakket om i Tennevoll. Han var knapt tre år gammel da han ble angrepet av ørn. Før faren hans rakk å reagere, hadde den vesle gutten plukket opp en blankebitt og slått etter rovfuglen. Slikk reddet han seg unna. En dag vi skulle kappe juletrær, Ludvig og jeg, fulgte Mari etter. Plutselig datt hun ned i et revehi. Hun huket seg fast med armene og vi fikk henne opp. Det snerret bak oss. Der stå reven, med skum om kjeften. Vi løp det beste vi kunne. Reven fulgte etter. Armene til søstera mi sto stivt ut til sidene og beina hennes gikk som trommestikker. Like etter kastet Ludvig fra seg juletreet. Reven stanset opp, ble stående noen sekunder og snuse på grana, før den gjenopptok forfølgelsen. Ludvig ba meg om å kaste treet mitt. Det samme gjentok seg og vi vant tid. Mari var et stykke bak oss, men vi kom oss alle ned fra skogen og passerte hønsehuset til naboen. Da reven nådde fram, forsvant den inn i hønsegården og vi var reddet. Daget etter fant naboen hiet og skjøt plageånden. Reven hadde rabiessmitte og måtte ha vandret helt fra Finnland. Da jeg var sju, lurte Ludvig meg utpå et av isflakene som drev ut fjorden. Ingen av oss hadde flytevester. Flaket var stort nok til å bære oss, men det språk opp i kanten da Ludvig sparket ifra. Skrekkslagen så jeg oss drive utover. Jeg kunne ikke svømme. Noen unger stå inne på stranda og ropte. Jeg er nødt til å hoppe, tenkte jeg. Det var det eneste som stå i hodet på meg. Jeg hoppet rett uti det grønne, iskalde vannet. Sjøen sto meg til halsen, kulden var lammende. Jeg greide så vidt å puste og karet meg hikstende inn på land. Ludvig så jeg ikke noe mer til. Han ble tatt hånd om av skolepsykologen og sendt på spesialskole. Senere har jeg fått høre at han ble fiskeoppdretter i Argentina, driver det stort. Jeg har ikke forsøkt å seile på isflak igjen. Nå er jeg skilt og arbeidsløs. Istedenfor å se muligheter, gjør jeg det motsatte. Det blir sagt at isflak kan drive langt til havs og over store, åpne havområder og at de når inn til fremmede kyster hvor det finnes godt arbeid og vidunderlige kvinnfolk. Det var dette Ludvig prøvde å lære meg, noe annet kan det umulig ha vært. Ikke faen om jeg hopper av neste gang.`}
-          </p>
-        </div>
 
         <h3 className="block-heading block-heading--green">
           🔍 Novelleanalyse – Ari Behn: «Isflak»
