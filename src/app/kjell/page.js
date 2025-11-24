@@ -289,6 +289,34 @@ Jeg leste det to ganger. Så forstod jeg. Jeg la arket fra meg nøyaktig der det
       «Hun er ikke helt seg selv for tiden» — men alt tyder på et større
       problem.
     </li>
+    <li>
+    <strong>Metaforer:</strong> Begjær og konflikt uttrykkes indirekte gjennom
+    kropp og rom, som «avstanden mellom en dristig tanke og en konkret
+    handling». Eksempel: «Jeg var altfor kald inni meg» – følelsesmessig
+    tomhet som kulde.
+  </li>
+
+  <li>
+    <strong>Gjentakelse (repetisjon):</strong> Korte, gjentatte fraser skaper
+    knapphet og undertrykt spenning. Eksempel: «Jeg svarte ikke.» gjentas flere
+    ganger og viser den emosjonelle avstanden.
+  </li>
+
+  <li>
+    <strong>Sammenligninger:</strong> Askildsen bruker få, men presise
+    sammenligninger som avslører forholdet mellom personene. Eksempel:
+    Elisabeths raske og ivrige svar ved frokostbordet beskrives som om hvert
+    spørsmål er «som en redningsplanke» – hun klamrer seg til samtalen for å
+    unngå stillheten. Et annet eksempel er at Frank opplever hennes bortvendte
+    blikk som at han får «fritt spillerom», som om han får tilgang til et rom.
+  </li>
+
+  <li>
+    <strong>Besjeling (personifikasjon):</strong> Natur og omgivelser får
+    menneskelige trekk og understreker den usagte spenningen. Eksempel:
+    «Blader og gress blinket i solen» – naturen speiler en midlertidig lettelse
+    etter uværet.
+  </li>
   </ul>
   <p>
     <strong>Stil:</strong> Nøktern, presis prosa; korte setninger; mørk,
