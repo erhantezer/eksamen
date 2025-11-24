@@ -8,14 +8,14 @@ export default function IsflakQuizNO() {
       id: 1,
       q: "Hvem har skrevet novellen «Isflak», og hvor er den hentet fra?",
       choices: [
-        "A) Ari Behn – fra novellesamlingen «Talent for lykke» (2004)",
+        "A) Ari Behn – fra novellesamlingen «Talent for lykke» (2011)",
         "B) Jon Fosse – fra «Morgon og kveld»",
         "C) Gro Dahle – fra «Hvem som helst, hvor som helst»",
         "D) Kjell Askildsen – fra «Thomas F's siste nedtegnelser»",
       ],
       answer: 0,
       explain:
-        "«Isflak» er skrevet av Ari Behn og står i novellesamlingen «Talent for lykke» (Kolon forlag, 2004).",
+        "«Isflak» er skrevet av Ari Behn og står i novellesamlingen «Talent for lykke» (Kolon forlag, 2011).",
     },
     {
       id: 2,
