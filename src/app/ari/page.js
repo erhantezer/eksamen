@@ -44,7 +44,7 @@ export default function IsflakTennevollFull() {
         Ari Behn – <em>«Isflak»</em>
       </h1>
       <p style={{ textAlign: "center", color: "#666", marginBottom: 30 }}>
-        (fra samlingen «Talent for lykke», Kolon forlag, 2004)
+        (fra samlingen «Talent for lykke», Kolon forlag, 2011)
       </p>
 
       {/* --- NOVELLE: FULL TEXT (TAM METİN) --- */}
