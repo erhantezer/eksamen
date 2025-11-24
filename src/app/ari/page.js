@@ -93,7 +93,7 @@ export default function IsflakTennevollFull() {
   </h3>
   <p>
     <strong>Forfatter og utgivelse:</strong> Novellen «Isflak» er skrevet av Ari
-    Behn og utgitt i <em>Talent for lykke</em> (2004, Kolon Forlag).
+    Behn og utgitt i <em>Talent for lykke</em> (2011, Kolon Forlag).
   </p>
   <p>
     <strong>Om forfatteren:</strong> Ari Behn (1972–2019) var en norsk forfatter

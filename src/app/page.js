@@ -92,11 +92,11 @@ export default function Home() {
                       Novelle
                     </span>
                     <span className="inline-flex items-center rounded-full bg-slate-50 px-2 py-0.5 ring-1 ring-slate-200">
-                      2004
+                      2011
                     </span>
                   </div>
                   <p className="mt-2 text-sm sm:text-base font-medium text-blue-700 group-hover:text-blue-800">
-                    Ari Behn (2004). «Isflak».
+                    Ari Behn (2011). «Isflak».
                   </p>
                   <p className="mt-1 text-xs sm:text-sm text-slate-600">
                     <em>Talent for lykke</em>. Kolon Forlag. (s. 63–64)
