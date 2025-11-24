@@ -130,7 +130,7 @@ Slik viser novellen hvordan sosiale relasjoner kan brytes ned av indre usikkerhe
           🔍 Novelleanalyse – Ari Behn: «Isflak»
         </h3>
         <p className="analysis-text">
-          {`Novellen «Isflak» er skrevet av Ari Behn og står i samlingen Talent for lykke (2004). Behn er kjent for sin direkte og samtidig melankolske skrivestil, ofte preget av refleksjoner rundt livsvalg, nederlag og menneskelig sårbarhet. I tekstene hans finnes det ofte en understrøm av eksistensiell uro, humor og smerte. «Isflak» er et typisk eksempel på dette: en tilsynelatende enkel barndomshistorie rommer dype tanker om frykt, feighet og livets ubrukte muligheter.
+          {`Novellen «Isflak» er skrevet av Ari Behn og står i samlingen Talent for lykke (2011). Behn er kjent for sin direkte og samtidig melankolske skrivestil, ofte preget av refleksjoner rundt livsvalg, nederlag og menneskelig sårbarhet. I tekstene hans finnes det ofte en understrøm av eksistensiell uro, humor og smerte. «Isflak» er et typisk eksempel på dette: en tilsynelatende enkel barndomshistorie rommer dype tanker om frykt, feighet og livets ubrukte muligheter.
 
 Tema og motiv
 På overflaten handler novellen om fortellerens barndom i Tennevoll og hans forhold til vennen Ludvig, med dramatiske episoder som ørneangrep, rabiessmittet rev og en farlig tur på et isflak. Men motivet er egentlig frykt, selvbilde og livsvalg. Isflaket blir en symbolsk scene der fortellerens karakter – og fremtid – formes. Mellom linjene bygges det opp et bilde av en mann som aldri turte å ta sjanser.
